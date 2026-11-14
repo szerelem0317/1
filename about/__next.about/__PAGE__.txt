@@ -1,0 +1,34 @@
+1:"$Sreact.fragment"
+2:"/1/_next/static/chunks/0_g3o3spv8coq.js"
+3:"/1/_next/static/chunks/2mn0esj_0djtm.js"
+4:I[73477,["$2","$3"],"Navigation"]
+5:I[39756,["$2"],"default"]
+6:I[37457,["$2"],"default"]
+7:I[22016,["$2","$3"],""]
+8:I[5014,["$2","$3"],"default"]
+9:I[73477,["$2","$3"],"Brand"]
+a:I[28478,["$2"],"Reveal"]
+11:I[5500,["$2","$3"],"Image"]
+12:I[97367,["$2"],"OutletBoundary"]
+13:"$Sreact.suspense"
+16:"ViewportBoundary"
+17:I[97367,["$2"],"$16"]
+18:"MetadataBoundary"
+19:I[97367,["$2"],"$18"]
+1a:I[27201,["$2"],"IconMark"]
+:HL["/1/_next/static/chunks/1v-n69cns688i.css","style"]
+c:X
+f:X
+f:C
+10:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","div",null,{"className":"shell subpage","children":["$","div",null,{"className":"about-intro","children":[["$","div",null,{"children":[["$","header",null,{"className":"page-head enter","children":[["$","p",null,{"className":"eyebrow","children":"ABOUT"}],["$","h1",null,{"children":"关于我"}],["$","p",null,{"children":"我是一名独立设计师，提供演示设计、视觉创作和数字内容服务。我喜欢从使用场景出发，先理清内容和优先级，再决定用什么样的视觉语言把它讲清楚。"}]]}],["$","ul",null,{"className":"tag-list about-skills","children":[["$","li","PowerPoint",{"children":"PowerPoint"}],["$","li","Excel",{"children":"Excel"}],["$","li","AI Tools",{"children":"AI Tools"}],["$","li","Graphic Design",{"children":"Graphic Design"}],["$","li","Video Editing",{"children":"Video Editing"}],["$","li","English",{"children":"English"}],["$","li","Data Visualization",{"children":"Data Visualization"}]]}]]}],["$","div",null,{"className":"about-art","children":["$","$L11",null,{"src":"/1/images/hero.webp","alt":"","fill":true,"sizes":"(max-width: 740px) 94vw, 480px"}]}]]}]}],[["$","script","script-0",{"src":"/1/_next/static/chunks/2mn0esj_0djtm.js","async":true}]],["$","$L12",null,{"children":["$","$13",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]]}],"p":"$@15","v":null,"s":"$c"}}]]
+d:[["children",{"s":"about","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@e","v":"$f","s":"$c"},"c":"$Q10"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/1/_next/static/chunks/1v-n69cns688i.css","precedence":"next"}],["$","script","script-0",{"src":"/1/_next/static/chunks/0_g3o3spv8coq.js","async":true}]],["$","html",null,{"lang":"zh-CN","children":["$","body",null,{"id":"top","children":[["$","a",null,{"className":"skip-link","href":"#main-content","children":"跳转到主要内容"}],["$","$L4",null,{}],["$","main",null,{"id":"main-content","children":["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}],"notFound":[["$","div",null,{"className":"shell subpage","children":[["$","header",null,{"className":"page-head enter","children":[["$","p",null,{"className":"eyebrow","children":"404"}],["$","h1",null,{"children":"找不到这个页面"}],["$","p",null,{"children":"链接可能已失效，您可以返回作品集继续浏览。"}]]}],["$","$L7",null,{"className":"button button-outline","href":"/portfolio","children":[["$","$L8",null,{"icon":{"name":"arrow-left","size":24,"node":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]]},"size":18}]," 返回作品集"]}]]}],[]]}]}],["$","footer",null,{"className":"site-footer","children":["$","div",null,{"className":"shell","children":[["$","div",null,{"className":"footer-main","children":[["$","div",null,{"children":[["$","$L9",null,{}],["$","p",null,{"children":"收录 PPT 演示、AI 创意视觉、平面设计、数据可视化、视频分镜与双语排版作品。"}]]}],["$","nav",null,{"aria-label":"页脚导航","children":[["$","$L7","/portfolio",{"href":"/portfolio","children":"作品集"}],["$","$L7","/about",{"href":"/about","children":"关于我"}]]}]]}],["$","div",null,{"className":"footer-bottom","children":[["$","span",null,{"children":["© ",2026," ","序间设计"]}],["$","a",null,{"href":"#top","children":"回到顶部 ↑"}]]}]]}]}],["$","$La",null,{}]]}]}]]}],"p":"$@b","v":null,"s":"$c"},"c":"$Qd"},"h":{"r":["$","$1","h",{"children":[null,["$","$L17",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L19",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$13",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"关于我 | 序间设计"}],["$","meta","1",{"name":"description","content":"我是一名独立设计师，提供演示设计、视觉创作和数字内容服务。我喜欢从使用场景出发，先理清内容和优先级，再决定用什么样的视觉语言把它讲清楚。"}],["$","meta","2",{"name":"robots","content":"index, follow"}],["$","link","3",{"rel":"canonical","href":"https://szerelem0317.github.io/1/about/"}],["$","meta","4",{"property":"og:title","content":"关于我 | 序间设计"}],["$","meta","5",{"property":"og:description","content":"我是一名独立设计师，提供演示设计、视觉创作和数字内容服务。我喜欢从使用场景出发，先理清内容和优先级，再决定用什么样的视觉语言把它讲清楚。"}],["$","meta","6",{"property":"og:url","content":"https://szerelem0317.github.io/1/about/"}],["$","meta","7",{"property":"og:site_name","content":"序间设计"}],["$","meta","8",{"property":"og:locale","content":"zh_CN"}],["$","meta","9",{"property":"og:image","content":"https://szerelem0317.github.io/1/images/hero.jpg"}],["$","meta","10",{"property":"og:type","content":"website"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"关于我 | 序间设计"}],["$","meta","13",{"name":"twitter:description","content":"我是一名独立设计师，提供演示设计、视觉创作和数字内容服务。我喜欢从使用场景出发，先理清内容和优先级，再决定用什么样的视觉语言把它讲清楚。"}],["$","meta","14",{"name":"twitter:image","content":"https://szerelem0317.github.io/1/images/hero.jpg"}],["$","link","15",{"rel":"icon","href":"/1/icon.svg?icon.20nmrr8p0sia5.svg","sizes":"any","type":"image/svg+xml"}],["$","$L1a","16",{}]]}]}],null]}],null]}],"p":"$@1b","v":null,"s":"$c"}},"a":"$@1c","u":"$@1d","b":"XJQg2JJp1pWgQgKRVOvnN"}
+14:null
+c:300
+1d:true
+c:C
+1c:0
+e:"$undefined"
+b:"$undefined"
+1b:"$undefined"
+15:"$undefined"
